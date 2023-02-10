@@ -8,7 +8,7 @@ Data Analytics Landing Page using HTML and CSS
 
 ### Created by - Vivek More
 
-**Data Analytics Landing Page** - [Live Link]()
+**Data Analytics Landing Page** - [Live Link](https://mrvivekmore-data-analytics-landing-pa.netlify.app/)
 
 ---
 
